@@ -13,7 +13,7 @@
 
 ## Contact
 - Email: gilbertozioma0@gmail.com
-- Twitter: twitter.com/goodnews_001
-- Email: instagram.com/good4everr
-- Website: about.me/gilbertgoodnews.com
+- Twitter: https://www.twitter.com/goodnews_001
+- Email: https://www.instagram.com/good4everr
+- Website: https://www.about.me/gilbertgoodnews.com
 - LinkedIn: https://www.linkedin.com/in/gilbert-ozioma-098b22259
