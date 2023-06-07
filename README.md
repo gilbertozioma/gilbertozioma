@@ -1,5 +1,6 @@
 ![Studio_Project_V2](https://github.com/Yesgoodnews/Yesgoodnews/assets/113298668/851738b2-22fa-4281-afbb-82655095cdb8)
 
+<a href="https://app.daily.dev/gilbertgoodnews"><img src="https://api.daily.dev/devcards/5ad2bc571a694098b6a7b43e53da0441.png?r=xoh" width="400" alt="Gilbert Goodnews's Dev Card"/></a>
 
 
 ## About Me
