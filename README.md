@@ -2,7 +2,7 @@
 <br>
 <br>
 
-https://api.daily.dev/devcards/5ad2bc571a694098b6a7b43e53da0441.png?r=bb0
+<a href="https://app.daily.dev/gilbertgoodnews"><img src="https://api.daily.dev/devcards/5ad2bc571a694098b6a7b43e53da0441.png?r=369" width="400" alt="Gilbert Goodnews's Dev Card"/></a>
 
 ### Here are some fun facts about me:
 - 💻 I enjoy working on complex technical issues and fixing them.
