@@ -4,6 +4,9 @@
 
 <a href="https://app.daily.dev/gilbertgoodnews"><img src="https://api.daily.dev/devcards/5ad2bc571a694098b6a7b43e53da0441.png?r=369" width="400" alt="Gilbert Goodnews's Dev Card"/></a>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gilbert-g-ozioma" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/gilbert-g-ozioma?trk=profile-badge">Gilbert G. Ozioma</a></div>
+              
+
 ### Here are some fun facts about me:
 - 💻 I enjoy working on complex technical issues and fixing them.
 - 🤝 I enjoy collaborating with the technical team to work and build a project.
