@@ -3,9 +3,6 @@
 <br>
 
 <a href="https://app.daily.dev/gilbertgoodnews"><img src="https://api.daily.dev/devcards/5ad2bc571a694098b6a7b43e53da0441.png?r=369" width="400" alt="Gilbert Goodnews's Dev Card"/></a>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gilbert-g-ozioma" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/gilbert-g-ozioma?trk=profile-badge">Gilbert G. Ozioma</a></div>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
               
 
 ### Here are some fun facts about me:
@@ -22,7 +19,7 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](gilbertozioma0@gmail.com)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/goodnews_001)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/good4everr)
-[<img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://www.about.me/gilbertgoodnews.com)
+[<img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://www.about.me/gilbertgoodnews)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gilbert-g-ozioma)
 
 <br/>
