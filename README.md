@@ -1,4 +1,5 @@
-![Studio_Project_V3](https://github.com/gilbertozioma/gilbertozioma/assets/113298668/4e1e8df2-8b70-4ccf-a3c2-5791635f4ac0)
+![Studio_Project_V3](https://github.com/gilbertozioma/gilbertozioma/assets/113298668/675907f7-46ab-4387-9cb2-73edbce40465)
+
 
 <br>
 <br>
