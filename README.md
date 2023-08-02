@@ -8,13 +8,12 @@
               
 
 ### Here are some fun facts about me:
-- 💻 I enjoy working on complex technical issues and fixing them.
-- 🤝 I enjoy collaborating with the technical team to work and build a project.
+- 💻 I enjoy working on complex technical issues and resolving them.
+- 🤝 I enjoy collaborating with technical teams to work on and build projects.
 - 🔍 I’m currently looking for a job as a Backend Developer.
-- 💻 I’m also a graphic manipulator using Photoshop as I was once working as a graphic designer.
+- 💻 I’m also skilled in graphic manipulation using Photoshop, as I have previous experience as a graphic designer.
 - 🎶 I'm obsessed with cool Hip Hop music.
-- 🍕 I'm a foodie, I love food so much. 😌
-- 🤔 I love learning new things and improving.
+- 🍕 I'm a foodie and love trying different cuisines.
 <br/>
 
 ## Contact Me:
