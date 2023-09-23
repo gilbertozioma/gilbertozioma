@@ -4,8 +4,7 @@
 <br>
 <br>
 
-<a href="https://app.daily.dev/gilbertozioma"><img src="https://api.daily.dev/devcards/5ad2bc571a694098b6a7b43e53da0441.png?r=ep6" width="400" alt="Gilbert Ozioma's Dev Card"/></a>
-              
+<a href="https://app.daily.dev/gilbertozioma"><img src="https://api.daily.dev/devcards/5ad2bc571a694098b6a7b43e53da0441.png?r=02m" width="400" alt="Gilbert Ozioma's Dev Card"/></a>              
 
 ### Here are some fun facts about me:
 - 💻 I enjoy working on complex technical issues and resolving them.
