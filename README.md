@@ -6,21 +6,29 @@
 
 <a href="https://app.daily.dev/gilbertozioma"><img src="https://api.daily.dev/devcards/5ad2bc571a694098b6a7b43e53da0441.png?r=02m" width="400" alt="Gilbert Ozioma's Dev Card"/></a>              
 
-### Here are some fun facts about me:
-- 💻 I enjoy working on complex technical issues and resolving them.
-- 🤝 I enjoy collaborating with technical teams to work on and build projects.
-- 🔍 I’m currently looking for a job as a Backend Developer.
-- 💻 I’m also skilled in graphic manipulation using Photoshop, as I have previous experience as a graphic designer.
-- 🎶 I'm obsessed with cool Hip Hop music.
-- 🍕 I'm a foodie and love trying different cuisines.
+### Yo, get some clue about me homie:
+
+- 🤨 If my code works don't touch it! 
+- 💻 Backend Web Developer, specializing in Laravel
+- 🐛 50% skilled in finding and squashing code bugs
+- 🎶 Music-powered coder, my code runs on Hip Hop beat magic
+- 🦉 Night Owl Developer, most productive when the world is asleep
+- 🛠️ Laravel Lover, Committed to elegant and efficient backend solutions
+- 🔍 Ctrl + Z Specialist, unleashing the power of the undo button with precision
+
+
+
+
+
+
+
 <br/>
 
 ## Contact Me:
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](gilbertozioma0@gmail.com)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/goodnews_001)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/good4everr)
-[<img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://www.about.me/gilbertozioma)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gilbert-g-ozioma)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/gilbertozioma)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/oxiomaa)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gilbertozioma)
 
 <br/>
 <br>
