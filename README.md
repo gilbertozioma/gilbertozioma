@@ -6,7 +6,7 @@
 
 <a href="https://app.daily.dev/gilbertozioma"><img src="https://api.daily.dev/devcards/5ad2bc571a694098b6a7b43e53da0441.png?r=02m" width="400" alt="Gilbert Ozioma's Dev Card"/></a>              
 
-### Yo, get some clue about me homie:
+### Hey, get some clues about me:
 
 - 🤨 If my code works don't touch it! 
 - 💻 Backend Web Developer, specializing in Laravel
