@@ -6,9 +6,8 @@
 
 <a href="https://app.daily.dev/gilbertozioma"><img src="https://api.daily.dev/devcards/5ad2bc571a694098b6a7b43e53da0441.png?r=02m" width="400" alt="Gilbert Ozioma's Dev Card"/></a>              
 
-### Hey, get some clues about me:
+### Facts about me:
 
-- 🤨 If my code works don't touch it! 
 - 💻 Backend Web Developer, specializing in Laravel
 - 🐛 50% skilled in finding and squashing code bugs
 - 🎶 Music-powered coder, my code runs on Hip Hop beat magic
