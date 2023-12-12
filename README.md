@@ -10,9 +10,8 @@
 
 - 💻 Backend Web Developer, specializing in Laravel
 - 🐛 50% skilled in finding and squashing code bugs
-- 🎶 Music-powered coder, my code runs on Hip Hop beat magic
+- 🎶 Music-powered coder, my code runs on music beat magic
 - 🦉 Night Owl Developer, most productive when the world is asleep
-- 🛠️ Laravel Lover, Committed to elegant and efficient backend solutions
 - 🔍 Ctrl + Z Specialist, unleashing the power of the undo button with precision
 
 
