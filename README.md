@@ -12,7 +12,7 @@
 - 🐛 50% skilled in finding and squashing code bugs.
 - 🎶 Music-powered coder, my code runs on music beat magic.
 - 🦉 Night Owl Developer, most productive when the world is asleep.
-- 🔍 Ctrl + Z Specialist, unleashing the power of the undo button with precision
+- 🔍 Ctrl + Z Specialist, unleashing the power of the undo button with precision.
 
 
 
