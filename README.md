@@ -4,20 +4,7 @@
 <br>
 <br>
 
-<a href="https://app.daily.dev/gilbertozioma"><img src="https://api.daily.dev/devcards/5ad2bc571a694098b6a7b43e53da0441.png?r=02m" width="400" alt="Gilbert Ozioma's Dev Card"/></a>              
-
-### Facts about me:
-
-- 💻 Backend Web Developer, specializing in Laravel.
-- 🐛 50% skilled in finding and squashing code bugs.
-- 🎶 Music-powered coder, my code runs on music beat magic.
-- 🦉 Night Owl Developer, most productive when the world is asleep.
-- 🔍 Ctrl + Z Specialist, unleashing the power of the undo button with precision.
-
-
-
-
-
+<a href="https://app.daily.dev/gilbertozioma"><img src="https://api.daily.dev/devcards/5ad2bc571a694098b6a7b43e53da0441.png?r=02m" width="400" alt="Gilbert Ozioma's Dev Card"/></a>
 
 
 <br/>
