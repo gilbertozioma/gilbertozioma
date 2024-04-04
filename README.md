@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<a href="https://app.daily.dev/gilbertozioma"><img src="https://api.daily.dev/devcards/5ad2bc571a694098b6a7b43e53da0441.png?r=02m" width="400" alt="Gilbert Ozioma's Dev Card"/></a>
+<a href="https://app.daily.dev/gilbertozioma"><img src="https://api.daily.dev/devcards/v2/vb99WYDK3mZgmOZGItRup.png?r=g9k" width="356" alt="Gilbert Ozioma's Dev Card"/></a>
 
 
 <br/>
