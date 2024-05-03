@@ -1,9 +1,3 @@
-![Studio_Project_V3](https://github.com/gilbertozioma/gilbertozioma/assets/113298668/675907f7-46ab-4387-9cb2-73edbce40465)
-
-
-<br>
-<br>
-
 <a href="https://app.daily.dev/gilbertozioma"><img src="https://api.daily.dev/devcards/v2/vb99WYDK3mZgmOZGItRup.png?r=g9k" width="356" alt="Gilbert Ozioma's Dev Card"/></a>
 
 
