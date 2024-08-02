@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/gilbertozioma"><img src="https://api.daily.dev/devcards/v2/vb99WYDK3mZgmOZGItRup.png?type=wide&r=jke" style="background-color: #1a1a1a:" width="652" alt="Gilbert Ozioma's Dev Card"/></a>
+<a href="https://app.daily.dev/gilbertozioma"><img src="https://api.daily.dev/devcards/v2/vb99WYDK3mZgmOZGItRup.png?type=wide&r=jke" width="652" alt="Gilbert Ozioma's Dev Card"/></a>
 
 <br/>
 
