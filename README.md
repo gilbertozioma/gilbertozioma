@@ -1,6 +1,3 @@
-<a href="https://app.daily.dev/gilbertozioma"><img src="https://api.daily.dev/devcards/v2/vb99WYDK3mZgmOZGItRup.png?type=wide&r=jke" width="652" alt="Gilbert Ozioma's Dev Card"/></a>
-
-<br/>
 
 ## Contact Me:
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](gilbertozioma0@gmail.com)
