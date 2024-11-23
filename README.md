@@ -1,4 +1,4 @@
-## Hi there 👋
+<h2 align="center"><b>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,</b> I'm Gilbert Ozioma</h2>
 
 <!--
 **gilbertozioma/gilbertozioma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/oxiomaa)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gilbertozioma)
 
-### About Me:
+### ABOUT ME:
 * 🖥️  See my portfolio at [Portfolio](https://gilbertozioma.vercel.app/)
 * ✉️  You can contact me via [Mail](mailto:gilbertozioma0@gmail.com)
 * 🚀  I'm open for collaborations and jobs
@@ -46,7 +46,7 @@
 <br/>
 <br/>
 
-### Stats:
+### STATS:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gilbertozioma&show_icons=true&theme=transparent" />
