@@ -18,8 +18,6 @@
 * 🎵  I love music a lot
 * 👨🏽‍💻 Co-founding a startup
 
-<br/>
-
 ### 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:  
 
 <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://user-images.githubusercontent.com/89584431/216820527-3547f251-7d3e-4362-92eb-c2fd8fc0192a.gif"/>
@@ -42,6 +40,10 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+
+<br/>
+<br/>
+<br/>
 <br/>
 
 ### Stats:
