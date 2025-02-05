@@ -1,23 +1,3 @@
-<h2 align="center"><b>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,</b> I'm Gilbert Ozioma</h2>
-
-<!--
-**gilbertozioma/gilbertozioma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-### CONTACT ME:
-
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:gilbertozioma0@gmail.com)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/gilbertozioma)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/oxiomaa)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gilbertozioma)
-
-### ABOUT ME:
-* 🖥️  See my portfolio at [Portfolio](https://gilbertozioma.vercel.app/)
-* ✉️  You can contact me via [Mail](mailto:gilbertozioma0@gmail.com)
-* 🚀  I'm open for collaborations and jobs
-* 🧠  I'm currently learning Python language
-* 🎵  I love music a lot
-* 👨🏽‍💻 Co-founding a startup
-
 ### 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:  
 
 <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://user-images.githubusercontent.com/89584431/216820527-3547f251-7d3e-4362-92eb-c2fd8fc0192a.gif"/>
